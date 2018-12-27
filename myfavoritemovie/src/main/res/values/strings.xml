@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Favorite Movie</string>
+    <string name="lorem">Lorem ipsum</string>
+    <string name="notfound">Not Found.</string>
+</resources>

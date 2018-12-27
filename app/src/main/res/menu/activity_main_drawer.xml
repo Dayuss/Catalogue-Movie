@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_np"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_now_playing" />
+        <item
+            android:id="@+id/nav_uc"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_up_coming" />
+        <item
+            android:id="@+id/nav_p"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_popular" />
+        <item
+            android:id="@+id/nav_f"
+            android:icon="@drawable/ic_favorite"
+            android:title="@string/favorite" />
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_manage"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="@string/change_language_settings" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">KatalogFilm</string>
+
+    <string name="navigation_drawer_open">Buka panel samping navigasi</string>
+    <string name="navigation_drawer_close">Tutup panel samping navigasi</string>
+
+    <string name="action_settings">Pengaturan</string>
+    <string name="menu_now_playing">Sedang diputar</string>
+    <string name="menu_up_coming">Akan Datang</string>
+    <string name="menu_popular">Populer</string>
+
+    <string name="change_language_settings">Pengaturan Bahasa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="lorem">Lorem ipsum dolor sit amet</string>
+    <string name="collapsing_toolbar">collaps</string>
+    <string name="notfound">Tidak ada data.</string>
+    <string name="overview">Ikhtisar</string>
+    <string name="title">Judul</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="revenue">Pendapatan</string>
+    <string name="rating">Peringkat</string>
+    <string name="gendre">Gendre</string>
+    <string name="production_detail">Detail Produksi</string>
+    <string name="company_name">Nama Perusahaan</string>
+    <string name="country">Negara </string>
+    <string name="myfavorite">Favorit Says</string>
+
+</resources>
